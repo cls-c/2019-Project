@@ -20,11 +20,13 @@ Update:
 -18.9.19 Working in Tech Talk Event
 - 19.9.19 Careers Day 
 - 20.9.19 Microbit Workshop 2 : Started Microbit Personal Game Project
--26.9.19 Joined Sprint 3: Trello + Sprint goal planning+ Social 
-*Update: Sprint 3 goals: 
-- Agile project 
--Careers (CV + Application Review and update) * 
+- 26.9.19 Joined Sprint 3: Trello + Sprint goal planning+ Social 
+
+Update: Sprint 3 goals: 
+- *Agile project* 
+- *Careers (CV + Application Review and update) *
 
 
 #Projects- October
--3.10.19 Sprint3: Complete CV and application + Modified and updated Github + Linked in profile
+-3.10.19 Sprint3: Continuation + Update 
+*Complete CV and application + Modified and updated Github + Linkedin profilepic*
