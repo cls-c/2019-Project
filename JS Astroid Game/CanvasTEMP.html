@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title>This is an HTML canvas</title>
+        <style media="screen">
+            body {
+                text-align: centre;
+                font-family: sans-serif;
+            }
+            canvas {
+                    background-color: black
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1> HTML Canvas for Asteroid Game</h1>
+        <canvas id="asteroids" width="400" height="400"></canvas>
+        <script>
+            var canvas = document.getElementById("asteroids");
+            var context = canvas.getContext("2d")
+            context.strokeStyle = 'dimgrey'; //affect colour of the line
+            context.lineWidth = 5; //thickness of line
+            context.rect(75,50,canvas.width-150,canvas.height-100); //defining the 250x250 square from origin (75,75)
+            context.stroke(); //draw the preset context
+            context.fillStyle = 'lightgrey'
+            context.fill();
+            context.font = "34px Arial";
+            context.fillStyle ="White"
+            context.fillText("Poster",150,100);//Text at origin 120,100
+
+        </script>
+    </body>
+</html>
+

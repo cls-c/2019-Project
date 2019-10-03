@@ -1,0 +1,6 @@
+April 2019 - 
+
+Objective: Creating an astro fighter game completed from scratch with Javascript. 
+
+
+15/4/2019 - Created a blank canvas in html for game 
