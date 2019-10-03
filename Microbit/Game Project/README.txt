@@ -11,3 +11,8 @@ Objective :
 Game over when life is 0. 
 
 - Programmed player controls. 
+- Programmed player score +1 when picked up apple. Player life -1 when apple hit the ground. Apple randomly spawn when there's no apple on the screen. 
+
+Ideas: 
+* Apple drop rate increase along time 
+* Shake to pause game 
