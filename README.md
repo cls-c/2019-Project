@@ -28,5 +28,5 @@ Update: Sprint 3 goals:
 
 
 #Projects- October
--3.10.19 Sprint3: Continuation + Update 
+- 3.10.19 Sprint3: Continuation + Update 
 *Complete CV and application + Modified and updated Github + Linkedin profilepic*
